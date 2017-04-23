@@ -1,4 +1,4 @@
-# -Java-Multithreading
+# Java-Multithreading
 
 Credit                 
 Cave of programming                            
